@@ -24,5 +24,9 @@
   "author": "elemefe",
   "license": "MIT",
   "dependencies": {
+    "element-theme-default": "^0.2.5"
+  },
+  "devDependencies": {
+    "posthtml-loader": "^0.9.0"
   }
 }

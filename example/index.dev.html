@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>A element component</title>
+  <title>An element component</title>
 </head>
 <body>
   <app></app>
