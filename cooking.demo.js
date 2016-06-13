@@ -16,8 +16,8 @@ cooking.set({
     port: 8101
   },
   publicPath: '/el-pagination/',
-  extends: ['vue', 'lint']
-})
+  extends: ['vue', 'lint', 'saladcss']
+});
 
 cooking.add('loader.md', {
   test: /\.md$/,

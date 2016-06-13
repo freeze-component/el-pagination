@@ -22,7 +22,7 @@ cooking.set({
   template: false,
   format: 'umd',
   moduleName: 'ElPagination',
-  extends: ['vue', 'lint']
+  extends: ['vue', 'lint', 'saladcss']
 });
 
 cooking.add('plugin.UglifyJs', new webpack.optimize.UglifyJsPlugin({
